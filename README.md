@@ -7,6 +7,10 @@
 npm install
 ```
 ```shell
+for typescript build.
+grunt ts
+```
+```shell
 grunt run
 ```
 or
