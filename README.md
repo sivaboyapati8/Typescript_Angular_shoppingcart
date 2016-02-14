@@ -7,7 +7,7 @@
 npm install
 ```
 ```shell
-for typescript build.
+>>for typescript build run the following command:
 grunt ts
 ```
 ```shell
